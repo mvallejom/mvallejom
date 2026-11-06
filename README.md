@@ -16,6 +16,7 @@ I hold a Master of Computer Science from the University of Sydney, with a focus 
 | **Hausie AI Local** | Python, FastAPI, SQLite, local learning and Home Assistant event processing | [Source & documentation](https://github.com/Hausie-au/hausie-ai-local) |
 | **Hausie Home Assistant App** | Smart-home integration, device configuration and versioned add-on distribution | [Source & documentation](https://github.com/Hausie-au/hausie_app_homeassistant) |
 | **Hausie AI Cloud** | Companion API for registration, health signals and versioned policy | [Source & documentation](https://github.com/Hausie-au/hausie-ai-cloud) |
+| **Espacio** | Collaborative frontend project | [GitHub organization](https://github.com/Espacio-au) |
 | **Mapetech** | A mobile-game brand inspired by childhood imagination | [Website source](https://github.com/mvallejom/mapetech) |
 
 ### Engineering in practice
@@ -31,6 +32,10 @@ The public Hausie AI repositories demonstrate local data persistence, API bounda
 - A clear approach to problem solving and explaining technical ideas.
 
 Older repositories include university work in databases, algorithms, concurrency and enterprise systems. The selected projects above are the best starting point for my current work.
+
+## More of my work
+
+I also contribute as [mval0359](https://github.com/mval0359), my university GitHub account. Explore my projects across [Hausie](https://github.com/Hausie-au) and [Espacio](https://github.com/Espacio-au).
 
 ## Connect
 

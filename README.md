@@ -35,7 +35,7 @@ Older repositories include university work in databases, algorithms, concurrency
 
 ## More of my work
 
-I also contribute as [mval0359](https://github.com/mval0359), my university GitHub account. Explore my projects across [Hausie](https://github.com/Hausie-au) and [Espacio](https://github.com/Espacio-au).
+My university GitHub Enterprise account is [mval0359](https://github.sydney.edu.au/mval0359) (university access may be required). Explore my projects across [Hausie](https://github.com/Hausie-au) and [Espacio](https://github.com/Espacio-au).
 
 ## Connect
 
